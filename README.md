@@ -7,3 +7,4 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e968-e325-11
 now just double click on AdapterType and change it to 4 and hit ok.
 Then below it, you will find EnableMsHybrid double click on it and change it to 1 instead of 0, hit ok
 reboot the pc and then open Nvidia control panel and make the P106  the default GPU and you are set to go.
+IMPORTANT IS TO RUN REGISTRY FILE PROVIDED HERE TO DISABLE AUTOMATIC WINDOWS DRIVER UPDATE IN ORDER TO AVOID REINSTALL FROM SCRATCH FROM YOUR SETUP DRIVERS
